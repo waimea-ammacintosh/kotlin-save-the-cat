@@ -1,14 +1,13 @@
-# PROJECT NAME HERE
+# Save the Cat
 
-by YOUR NAME HERE
+by Aaron Macintosh
 
 ## Project Description
 
-**PLACE YOUR PROJECT DESCRIPTION HERE**
-**PLACE YOUR PROJECT DESCRIPTION HERE**
-**PLACE YOUR PROJECT DESCRIPTION HERE**
-**PLACE YOUR PROJECT DESCRIPTION HERE**
-**PLACE YOUR PROJECT DESCRIPTION HERE**
+Save the Cat is an adventure-style game, where you must save
+your cat from the evil king who stole your cat, and will not give 
+it back unless you scour the land, looking for exotic materials
+for his new house.
 
 ---
 
@@ -24,8 +23,8 @@ by YOUR NAME HERE
 
 This is a programming project for **NCEA Level 3**, assessed against standard [91906](task/as91906.pdf).
 
-The project is written in the [Kotlin](https://kotlinlang.org) programming language and demonstrates a number of *
-*complex programming techniques**:
+The project is written in the [Kotlin](https://kotlinlang.org) programming language and demonstrates a number of
+**complex programming techniques**:
 
 - Programming a graphical user interface (GUI)
 - Reading from, or writing to, files
